@@ -3,7 +3,7 @@ l
 u
 f
 f
-Git is loved by many, especially Bob.
+Git is loved by many, especially Alice and Bob.
 f
 l
 u
